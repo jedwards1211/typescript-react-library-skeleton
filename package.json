@@ -133,7 +133,7 @@
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
     "rimraf": "^2.6.0",
-    "semantic-release": "^15.1.4",
+    "semantic-release": "^17.2.3",
     "typescript": "^3.7.2"
   },
   "dependencies": {
