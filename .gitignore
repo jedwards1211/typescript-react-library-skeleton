@@ -6,9 +6,13 @@ node_modules
 *.js
 *.js.flow
 *.d.ts
+!/flow-typed/**/*.js
 !/src/**/*.ts
+!/src/**/*.tsx
 !/src/**/*.js
 !/src/**/*.js.flow
 !/test/**/*.ts
+!/test/**/*.tsx
 !/test/**/*.js
+!/test/**/*.js.flow
 !/.babelrc.js
