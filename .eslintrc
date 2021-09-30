@@ -2,8 +2,6 @@
   "extends": [
     "@jedwards1211/eslint-config-typescript",
     "@jedwards1211/eslint-config-react",
-    "prettier",
-    "prettier/@typescript-eslint",
-    "prettier/react"
+    "prettier"
   ]
 }
